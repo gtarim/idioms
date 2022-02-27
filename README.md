@@ -9,3 +9,10 @@ Idioms mostly implemented on C++17
 Here is the list of implemented idioms.
 - CRTP (Curiously recurring template pattern)
 - CITP (constexpr if template parameter)
+
+
+## Resources
+While developement mostly used below resources.
+
+- https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms
+- StackOverFlow
