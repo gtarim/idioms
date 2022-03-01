@@ -9,7 +9,7 @@ Idioms mostly implemented on C++17
 Here is the list of implemented idioms.
 - CRTP (Curiously recurring template pattern)
 - CITP (constexpr if template parameter)
-
+- VCTOR (virtual constructor)
 
 ## Resources
 While developement mostly used below resources.
