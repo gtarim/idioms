@@ -1,6 +1,6 @@
 #include <iostream>
 
-// both side is same operation.
+// same operation on both sides.
 
 // template <std::size_t size>
 // std::size_t fib() { return fib<size-1>() + fib<size-2>(); }
