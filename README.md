@@ -10,6 +10,7 @@ Here is the list of implemented idioms.
 - CRTP (Curiously recurring template pattern)
 - CITP (constexpr if template parameter)
 - VCTOR (virtual constructor)
+- RTR (return type resolver)
 
 ## Resources
 While developement mostly used below resources.
