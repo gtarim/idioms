@@ -1,16 +1,21 @@
 #include <iostream>
 
+// functions signature should be the same for overload
+// int Convert(const char *str) { return std::stoi(str); }
+// float Convert(const char *str) { return std::stof(str); } // error
+
 class Convert
 {
     const std::string str;
 public:
     Convert( const char *str ) : str(str) { }
+
     template <typename T>
     operator T()
     {
         if constexpr( std::is_same_v<T, float> )
             return std::stof( str );
-        else if( std::is_same_v<T, int> )
+        else if constexpr( std::is_same_v<T, int> )
             return std::stoi( str );
     }
 };
