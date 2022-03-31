@@ -11,6 +11,7 @@ Here is the list of implemented idioms.
 - CITP (constexpr if template parameter)
 - VCTOR (virtual constructor)
 - RTR (return type resolver)
+- EBO (empty base optimization)
 
 ## Resources
 While developement mostly used below resources.
