@@ -12,6 +12,7 @@ Here is the list of implemented idioms.
 - VCTOR (virtual constructor)
 - RTR (return type resolver)
 - EBO (empty base optimization)
+- NVI (non-virtual interface)
 
 ## Resources
 While developement mostly used below resources.
