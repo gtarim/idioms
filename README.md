@@ -19,3 +19,4 @@ While developement mostly used below resources.
 
 - https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms
 - StackOverFlow
+- https://necatiergin2019.medium.com/
