@@ -14,6 +14,7 @@ Here is the list of implemented idioms.
 - EBO (empty base optimization)
 - NVI (non-virtual interface)
 - ACP (attorney client privilege)
+- TBC (tuple based compare)
 
 ## Resources
 While developement mostly used below resources.
