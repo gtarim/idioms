@@ -3,7 +3,8 @@
 The project has some c++ idioms implementation in real case.
 This project is a kind of case study to improve myself.
 
-Idioms mostly implemented on C++17
+Idioms mostly implemented on C++17.
+Focus will be C++20
 
 ## Idioms
 Here is the list of implemented idioms.
