@@ -16,6 +16,7 @@ Here is the list of implemented idioms.
 - NVI (non-virtual interface)
 - ACP (attorney client privilege)
 - TBC (tuple based compare)
+- SOO (small object optimization)
 
 ## Resources
 While developement mostly used below resources.
